@@ -4,9 +4,9 @@
 </picture>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/stevenoumi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/btn-linkedin-dark.png"><img src="assets/sections/btn-linkedin-light.png" height="42" alt="LinkedIn"></picture></a>
-<a href="https://gitlab.com/stevenoumi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/btn-gitlab-dark.png"><img src="assets/sections/btn-gitlab-light.png" height="42" alt="GitLab"></picture></a>
-<a href="mailto:stevenoumi@protonmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/btn-email-dark.png"><img src="assets/sections/btn-email-light.png" height="42" alt="Email stevenoumi@protonmail.com"></picture></a>
+<a href="https://www.linkedin.com/in/stevenoumi"><img src="assets/badges/linkedin.png" height="28" alt="LinkedIn: stevenoumi"></a>
+<a href="https://gitlab.com/stevenoumi"><img src="assets/badges/gitlab.png" height="28" alt="GitLab: stevenoumi"></a>
+<a href="mailto:stevenoumi@protonmail.com"><img src="assets/badges/email.png" height="28" alt="Email: stevenoumi@protonmail.com"></a>
 </p>
 
 ### Hi, I'm Steve
@@ -21,12 +21,7 @@ Entrepreneur at heart, I design SaaS and mobile apps for everyday problems off h
 
 ### What I've built
 
-- **Agentic AI platform** · *GE HealthCare*<br>AI agents and task-specific skills inside GitLab CI/CD that automate everyday engineering work, taken from PoC to production.
-- **MLOps platform** · *GE HealthCare*<br>Kubernetes and Slurm GPU clusters, vLLM serving for open LLMs, and observability down to GPU and inference level.
-- **On-prem demo platform** · *GE HealthCare*<br>A secure DMZ platform that makes customer demos faster to set up and cuts on-site travel.
-- **Client-facing architecture** · *GE HealthCare, Alfa-Safety*<br>Adapting AI products to hospital operations. Architecture workshops, disaster recovery planning and Tech Days for client teams.
-- **Multi-cloud platforms** · *Alfa-Safety*<br>Secure client architectures on Azure, AWS, GCP and OVHcloud with Terraform and Ansible, aligned with ISO 27001 and cost-tracked with OpenCost.
-- **SIEM & observability** · *Alfa-Safety*<br>ELK-based SIEM ingesting up to 2 TB of logs per week, with real-time alerting through Grafana, Zabbix and Slack.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/built-dark.png"><img src="assets/sections/built-light.png" width="100%" alt="What I've built. Agentic AI platform · GE HealthCare: AI agents and task-specific skills inside GitLab CI/CD that automate everyday engineering work, taken from PoC to production. MLOps platform · GE HealthCare: Kubernetes and Slurm GPU clusters, vLLM serving for open LLMs, and observability down to GPU and inference level. On-prem demo platform · GE HealthCare: A secure DMZ platform that makes customer demos faster to set up and cuts on-site travel. Client-facing architecture · GE HealthCare, Alfa-Safety: Adapting AI products to hospital operations. Architecture workshops, disaster recovery planning and Tech Days for client teams. Multi-cloud platforms · Alfa-Safety: Secure client architectures on Azure, AWS, GCP and OVHcloud with Terraform and Ansible, aligned with ISO 27001 and cost-tracked with OpenCost. SIEM & observability · Alfa-Safety: ELK-based SIEM ingesting up to 2 TB of logs per week, with real-time alerting through Grafana, Zabbix and Slack."></picture>
 
 <br>
 
@@ -65,7 +60,7 @@ Most of my day-to-day work lives on GitLab, in company and product repositories.
 Open to conversations about AI, cloud, innovation and entrepreneurship.
 
 <p align="center">
-<a href="https://www.linkedin.com/in/stevenoumi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/btn-linkedin-dark.png"><img src="assets/sections/btn-linkedin-light.png" height="42" alt="LinkedIn"></picture></a>
-<a href="https://gitlab.com/stevenoumi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/btn-gitlab-dark.png"><img src="assets/sections/btn-gitlab-light.png" height="42" alt="GitLab"></picture></a>
-<a href="mailto:stevenoumi@protonmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/btn-email-dark.png"><img src="assets/sections/btn-email-light.png" height="42" alt="Email stevenoumi@protonmail.com"></picture></a>
+<a href="https://www.linkedin.com/in/stevenoumi"><img src="assets/badges/linkedin.png" height="28" alt="LinkedIn: stevenoumi"></a>
+<a href="https://gitlab.com/stevenoumi"><img src="assets/badges/gitlab.png" height="28" alt="GitLab: stevenoumi"></a>
+<a href="mailto:stevenoumi@protonmail.com"><img src="assets/badges/email.png" height="28" alt="Email: stevenoumi@protonmail.com"></a>
 </p>
