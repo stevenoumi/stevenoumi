@@ -13,7 +13,7 @@
 <a href="mailto:contact@stevenoumi.com"><picture><source media="(max-width: 600px)" srcset="assets/badges/email-m.png"><img src="assets/badges/email.png" height="28" alt="Email: contact@stevenoumi.com"></picture></a>
 </p>
 
-<br>
+### 
 
 ### Hi, I'm Steve
 
