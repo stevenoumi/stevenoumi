@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/stevenoumi"><picture><source media="(max-width: 600px)" srcset="assets/badges/linkedin-m.png"><img src="assets/badges/linkedin.png" height="28" alt="LinkedIn: stevenoumi"></picture></a>
 <a href="https://gitlab.com/stevenoumi"><picture><source media="(max-width: 600px)" srcset="assets/badges/gitlab-m.png"><img src="assets/badges/gitlab.png" height="28" alt="GitLab: stevenoumi"></picture></a>
-<a href="mailto:stevenoumi@protonmail.com"><picture><source media="(max-width: 600px)" srcset="assets/badges/email-m.png"><img src="assets/badges/email.png" height="28" alt="Email: stevenoumi@protonmail.com"></picture></a>
+<a href="mailto:contact@stevenoumi.com"><picture><source media="(max-width: 600px)" srcset="assets/badges/email-m.png"><img src="assets/badges/email.png" height="28" alt="Email: contact@stevenoumi.com"></picture></a>
 </p>
 
 ### Hi, I'm Steve
@@ -64,5 +64,5 @@ Open to conversations about AI, cloud, innovation and entrepreneurship.
 <p align="center">
 <a href="https://www.linkedin.com/in/stevenoumi"><picture><source media="(max-width: 600px)" srcset="assets/badges/linkedin-m.png"><img src="assets/badges/linkedin.png" height="28" alt="LinkedIn: stevenoumi"></picture></a>
 <a href="https://gitlab.com/stevenoumi"><picture><source media="(max-width: 600px)" srcset="assets/badges/gitlab-m.png"><img src="assets/badges/gitlab.png" height="28" alt="GitLab: stevenoumi"></picture></a>
-<a href="mailto:stevenoumi@protonmail.com"><picture><source media="(max-width: 600px)" srcset="assets/badges/email-m.png"><img src="assets/badges/email.png" height="28" alt="Email: stevenoumi@protonmail.com"></picture></a>
+<a href="mailto:contact@stevenoumi.com"><picture><source media="(max-width: 600px)" srcset="assets/badges/email-m.png"><img src="assets/badges/email.png" height="28" alt="Email: contact@stevenoumi.com"></picture></a>
 </p>
