@@ -2,7 +2,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-m-dark.png">
   <source media="(max-width: 600px)" srcset="assets/banner-m-light.png">
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img src="assets/banner-light.png" alt="Steve Darius NDE NOUMI, Cloud, DevOps & AI Platform Architect. I design, build and run AI platforms from first PoC to production." width="100%">
+  <img src="assets/banner-light.png" alt="Steve Darius NDE NOUMI, Cloud, DevOps & AI Platform Architect. I design, build and run innovative platforms, using technology to turn ideas into solutions that improve people’s lives." width="100%">
 </picture>
 
 <br>
@@ -13,7 +13,7 @@
 <a href="mailto:contact@stevenoumi.com"><picture><source media="(max-width: 600px)" srcset="assets/badges/email-m.png"><img src="assets/badges/email.png" height="28" alt="Email: contact@stevenoumi.com"></picture></a>
 </p>
 
-### 
+<br>
 
 ### Hi, I'm Steve
 
