@@ -5,11 +5,15 @@
   <img src="assets/banner-light.png" alt="Steve Darius NDE NOUMI, Cloud, DevOps & AI Platform Architect. I design, build and run AI platforms from first PoC to production." width="100%">
 </picture>
 
+<br>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/stevenoumi"><picture><source media="(max-width: 600px)" srcset="assets/badges/linkedin-m.png"><img src="assets/badges/linkedin.png" height="28" alt="LinkedIn: stevenoumi"></picture></a>
 <a href="https://gitlab.com/stevenoumi"><picture><source media="(max-width: 600px)" srcset="assets/badges/gitlab-m.png"><img src="assets/badges/gitlab.png" height="28" alt="GitLab: stevenoumi"></picture></a>
 <a href="mailto:contact@stevenoumi.com"><picture><source media="(max-width: 600px)" srcset="assets/badges/email-m.png"><img src="assets/badges/email.png" height="28" alt="Email: contact@stevenoumi.com"></picture></a>
 </p>
+
+<br>
 
 ### Hi, I'm Steve
 
