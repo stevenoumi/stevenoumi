@@ -2,7 +2,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-m-dark.png">
   <source media="(max-width: 600px)" srcset="assets/banner-m-light.png">
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img src="assets/banner-light.png" alt="Steve Darius NDE NOUMI, Cloud, DevOps & AI Platform Architect" width="100%">
+  <img src="assets/banner-light.png" alt="Steve Darius NDE NOUMI, Cloud, DevOps & AI Platform Architect. I design, build and run AI platforms from first PoC to production." width="100%">
 </picture>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ### Hi, I'm Steve
 
-**I design, build and run AI platforms from first PoC to production, and work hand in hand with customers to make them fit real operations.**
+**I work hand in hand with customers to make AI platforms fit real operations.**
 
 DevOps & MLOps Engineer at GE HealthCare. I build scalable, secure and automated infrastructure that powers AI for medical imaging and diagnostics, in a regulated environment. My goal: turning machine learning research into real impact for patients. Currently preparing the CKA.
 
@@ -29,9 +29,9 @@ Entrepreneur at heart, I design SaaS and mobile apps for everyday problems off h
 
 ### Selected projects
 
-I run my side projects like products, from a blank page to production:
+I run my side projects like products, with the same three steps as at work: design, build, run.
 
-<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/sections/process-m-dark.png"><source media="(max-width: 600px)" srcset="assets/sections/process-m-light.png"><source media="(prefers-color-scheme: dark)" srcset="assets/sections/process-dark.png"><img src="assets/sections/process-light.png" width="100%" alt="Design: architecture and stack chosen for cost, time to market and security, diagrams in draw.io, UI in Figma. Build: agile sprints and user stories in GitLab, with Claude Code and GitHub Copilot as pair programmers. Test: automated Vitest suites in GitLab CI/CD before every release. Ship and run: Docker images deployed with Ansible, monitored with Prometheus and Grafana, supported in production. Default stack: Next.js, React Native, TypeScript, shadcn/ui, PostgreSQL, Docker, Cloudflare."></picture>
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/sections/process-m-dark.png"><source media="(max-width: 600px)" srcset="assets/sections/process-m-light.png"><source media="(prefers-color-scheme: dark)" srcset="assets/sections/process-dark.png"><img src="assets/sections/process-light.png" width="100%" alt="Design: architecture and stack chosen for cost, time to market and security, diagrams in draw.io, UI in Figma. Build: agile sprints and user stories in GitLab, Claude Code and GitHub Copilot as pair programmers, Vitest suites in CI/CD before every release. Run: Docker images deployed with Ansible behind Cloudflare, monitored with Prometheus and Grafana, supported in production. Default stack: Next.js, React Native, TypeScript, shadcn/ui, PostgreSQL, Docker, Cloudflare."></picture>
 
 <a href="https://gitlab.com/stevenoumi"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/projects/mileseen-m-dark.png"><source media="(max-width: 600px)" srcset="assets/projects/mileseen-m-light.png"><source media="(prefers-color-scheme: dark)" srcset="assets/projects/mileseen-dark.png"><img src="assets/projects/mileseen-light.png" width="49%" alt="Mileseen, SaaS in beta with 5 testers: helps students and early-career talents land their first job, with agentic AI workflows. Next.js, Astro, TypeScript, PostgreSQL, n8n."></picture></a>
 <a href="https://gitlab.com/stevenoumi"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/projects/livopty-m-dark.png"><source media="(max-width: 600px)" srcset="assets/projects/livopty-m-light.png"><source media="(prefers-color-scheme: dark)" srcset="assets/projects/livopty-dark.png"><img src="assets/projects/livopty-light.png" width="49%" alt="LivOpty, web and mobile app in daily use: a shared space for couples and families with shopping lists, wishlists, messaging, budget and a secure vault. Next.js, React Native, TypeScript, PostgreSQL."></picture></a>
