@@ -1,16 +1,12 @@
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-m-dark.png">
-  <source media="(max-width: 600px)" srcset="assets/banner-m-light.png">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img src="assets/banner-light.png" alt="Steve Darius NDE NOUMI, Cloud, DevOps & AI Platform Architect. I design, build and run innovative platforms, using technology to turn ideas into solutions that improve people’s lives." width="100%">
-</picture>
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-m-dark.png"><source media="(max-width: 600px)" srcset="assets/banner-m-light.png"><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img src="assets/banner-light.png" width="100%" alt="Steve Darius NDE NOUMI, Cloud, DevOps & AI Platform Architect. I design, build and run innovative platforms, using technology to turn ideas into solutions that improve people’s lives."></picture>
 
 <br>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/stevenoumi"><picture><source media="(max-width: 600px)" srcset="assets/badges/linkedin-m.png"><img src="assets/badges/linkedin.png" height="28" alt="LinkedIn: stevenoumi"></picture></a>
-<a href="https://gitlab.com/stevenoumi"><picture><source media="(max-width: 600px)" srcset="assets/badges/gitlab-m.png"><img src="assets/badges/gitlab.png" height="28" alt="GitLab: stevenoumi"></picture></a>
-<a href="mailto:contact@stevenoumi.com"><picture><source media="(max-width: 600px)" srcset="assets/badges/email-m.png"><img src="assets/badges/email.png" height="28" alt="Email: contact@stevenoumi.com"></picture></a>
+<a href="https://stevenoumi.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/website-dark.png"><img src="assets/badges/website-light.png" height="32" alt="Website: stevenoumi.com"></picture></a>
+<a href="https://www.linkedin.com/in/stevenoumi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/linkedin-dark.png"><img src="assets/badges/linkedin-light.png" height="32" alt="LinkedIn: stevenoumi"></picture></a>
+<a href="https://gitlab.com/stevenoumi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/gitlab-dark.png"><img src="assets/badges/gitlab-light.png" height="32" alt="GitLab: stevenoumi"></picture></a>
+<a href="mailto:contact@stevenoumi.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/email-dark.png"><img src="assets/badges/email-light.png" height="32" alt="Email: contact@stevenoumi.com"></picture></a>
 </p>
 
 <br>
@@ -19,44 +15,53 @@
 
 **I work hand in hand with customers to make AI platforms fit real operations.**
 
-DevOps & MLOps Engineer at GE HealthCare. I build scalable, secure and automated infrastructure that powers AI for medical imaging and diagnostics, in a regulated environment. My goal: turning machine learning research into real impact for patients. Currently preparing the CKA.
+DevOps & MLOps Engineer at GE HealthCare, where I build the platforms that train and serve medical AI models. Before that, I spent two years designing cloud and security architectures for clients at Alfa-Safety, as an apprentice engineer at ESEO. Currently preparing the CKA.
 
-Entrepreneur at heart, I design SaaS and mobile apps for everyday problems off hours, from the first idea to launch. Basketball, medicine and volunteering keep me grounded.
+After hours, I ship my own products, coach students on their first job, and organise hackathons where young people build AI for real health problems.
 
-<br>
-
-### What I've built
-
-<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/sections/built-m-dark.png"><source media="(max-width: 600px)" srcset="assets/sections/built-m-light.png"><source media="(prefers-color-scheme: dark)" srcset="assets/sections/built-dark.png"><img src="assets/sections/built-light.png" width="100%" alt="What I've built. Agentic AI platform · GE HealthCare: AI agents and task-specific skills inside GitLab CI/CD that automate everyday engineering work, taken from PoC to production. MLOps platform · GE HealthCare: Kubernetes and Slurm GPU clusters, vLLM serving for open LLMs, and observability down to GPU and inference level. Shared tools platform · GE HealthCare: Initiated one Kubernetes cluster per environment (dev, UAT, demo) running tools shared across teams: Grafana with DCGM metrics, Passbolt, Rancher and GitOps deployments. Client-facing architecture · GE HealthCare, Alfa-Safety: Adapting AI products to hospital operations. Architecture workshops, disaster recovery planning and Tech Days for client teams. Multi-cloud platforms · Alfa-Safety: Secure client architectures on Azure, AWS, GCP and OVHcloud with Terraform and Ansible, aligned with ISO 27001 and cost-tracked with OpenCost. SIEM & observability · Alfa-Safety: ELK-based SIEM ingesting up to 2 TB of logs per week, with real-time alerting through Grafana, Zabbix and Slack."></picture>
+Case studies, products and resume: **[stevenoumi.com](https://stevenoumi.com)**
 
 <br>
 
-### Selected projects
+### Case studies
 
-I run my side projects like products, with the same three steps as at work: design, build, run.
+Six systems, each told from the need to the result. The full stories are on [stevenoumi.com/work](https://stevenoumi.com/work/).
 
-<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/sections/process-m-dark.png"><source media="(max-width: 600px)" srcset="assets/sections/process-m-light.png"><source media="(prefers-color-scheme: dark)" srcset="assets/sections/process-dark.png"><img src="assets/sections/process-light.png" width="100%" alt="Design: architecture and stack chosen for cost, time to market and security, diagrams in draw.io, UI in Figma. Build: agile sprints and user stories in GitLab, Claude Code and GitHub Copilot as pair programmers, Vitest suites in CI/CD before every release. Run: Docker images deployed with Ansible behind Cloudflare, monitored with Prometheus and Grafana, supported in production. Default stack: Next.js, React Native, TypeScript, shadcn/ui, PostgreSQL, Docker, Cloudflare."></picture>
-
-<a href="https://gitlab.com/stevenoumi"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/projects/mileseen-m-dark.png"><source media="(max-width: 600px)" srcset="assets/projects/mileseen-m-light.png"><source media="(prefers-color-scheme: dark)" srcset="assets/projects/mileseen-dark.png"><img src="assets/projects/mileseen-light.png" width="49%" alt="Mileseen, SaaS in beta with 5 testers: helps students and early-career talents land their first job, with agentic AI workflows. Next.js, Astro, TypeScript, PostgreSQL, n8n."></picture></a>
-<a href="https://gitlab.com/stevenoumi"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/projects/livopty-m-dark.png"><source media="(max-width: 600px)" srcset="assets/projects/livopty-m-light.png"><source media="(prefers-color-scheme: dark)" srcset="assets/projects/livopty-dark.png"><img src="assets/projects/livopty-light.png" width="49%" alt="LivOpty, web and mobile app in daily use: a shared space for couples and families with shopping lists, wishlists, messaging, budget and a secure vault. Next.js, React Native, TypeScript, PostgreSQL."></picture></a>
-
-<a href="https://gitlab.com/stevenoumi"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/projects/bookwhiz-m-dark.png"><source media="(max-width: 600px)" srcset="assets/projects/bookwhiz-m-light.png"><source media="(prefers-color-scheme: dark)" srcset="assets/projects/bookwhiz-dark.png"><img src="assets/projects/bookwhiz-light.png" width="49%" alt="Book-Whiz, paused: two-sided intercity bus booking platform for Cameroon. Traveler app complete, agency back-office next, launch on hold for administrative reasons. Next.js, Astro, React Native, PostgreSQL."></picture></a>
-<a href="https://gitlab.com/stevenoumi"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/projects/unboxed-m-dark.png"><source media="(max-width: 600px)" srcset="assets/projects/unboxed-m-light.png"><source media="(prefers-color-scheme: dark)" srcset="assets/projects/unboxed-dark.png"><img src="assets/projects/unboxed-light.png" width="49%" alt="UNBOXED Hackathon, Lyon 2026: led the organization of a medical AI hackathon for concrete healthcare challenges."></picture></a>
-
-<a href="https://ma-formalite.fr"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/projects/websites-m-dark.png"><source media="(max-width: 600px)" srcset="assets/projects/websites-m-light.png"><source media="(prefers-color-scheme: dark)" srcset="assets/projects/websites-dark.png"><img src="assets/projects/websites-light.png" width="49%" alt="Websites for independent professionals: designed, built and still maintained, such as ma-formalite.fr."></picture></a>
-<a href="https://gitlab.com/stevenoumi"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/projects/eseo-m-dark.png"><source media="(max-width: 600px)" srcset="assets/projects/eseo-m-light.png"><source media="(prefers-color-scheme: dark)" srcset="assets/projects/eseo-dark.png"><img src="assets/projects/eseo-light.png" width="49%" alt="Apprentice management platform at ESEO, Ops lead: secure, fully automated Azure infrastructure with Terraform, Ansible, GitHub Actions and ELK."></picture></a>
+<a href="https://stevenoumi.com/work/"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/sections/cases-m-dark.png"><source media="(max-width: 600px)" srcset="assets/sections/cases-m-light.png"><source media="(prefers-color-scheme: dark)" srcset="assets/sections/cases-dark.png"><img src="assets/sections/cases-light.png" width="100%" alt="Case studies. An HPC platform researchers actually use, GE HealthCare, 2025 to 2026: a GPU cluster for training and serving medical AI models, adopted by the research teams, then site-wide. An agentic AI stack on a private cloud, Mileseen, 2026: agent workflows on open models served on my own Kubernetes cluster, in beta with 5 testers. A cloud platform under real constraints, ESEO, 2024 to 2025: an Azure platform for apprentices and tutors, delivered in 4 months as project lead. Cloud architectures for clients, Alfa-Safety, 2023 to 2025: four clouds, 5 to 40 % lower infrastructure costs, 99.9 % SLA kept. An agentic AI platform for engineering teams, GE HealthCare, 2026: used by the technical teams of the whole site. A hypervisor migration without breaking production, GE HealthCare, 2026: automated end to end, a method other teams reused."></picture></a>
 
 <br>
 
-### Tech stack
+### How I work
 
-<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/stack/stack-m-dark.png"><source media="(max-width: 600px)" srcset="assets/stack/stack-m-light.png"><source media="(prefers-color-scheme: dark)" srcset="assets/stack/stack-dark.png"><img src="assets/stack/stack-light.png" width="100%" alt="Tech stack. Cloud & infrastructure: Azure, AWS, Google Cloud, OVHcloud, Cloudflare, Linux, Terraform, Ansible, Docker, Kubernetes, Helm, Ceph, Longhorn, OpenCost. CI/CD & quality: GitLab CI, GitHub Actions, Jenkins, Molecule, SonarQube, Trivy, Vitest. MLOps & AI: Python, Slurm, NVIDIA GPU Operator, Kubeflow, vLLM, RAG, MCP, LangChain, LangGraph, n8n, Promptfoo. Observability & security: Prometheus, Grafana, ELK, Zabbix, Keycloak, Teleport, Suricata. Web & mobile: TypeScript, Next.js, Astro, React, React Native, Flutter, Node.js, FastAPI, PostgreSQL, Firebase, shadcn/ui, GSAP, Java, C, Google Analytics, PageSpeed Insights. Design & AI tooling: Figma, draw.io, Confluence, VS Code, Claude Code, GitHub Copilot, GitLab Duo."></picture>
+Every project, at work or after hours, follows the same three steps.
+
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/sections/method-m-dark.png"><source media="(max-width: 600px)" srcset="assets/sections/method-m-light.png"><source media="(prefers-color-scheme: dark)" srcset="assets/sections/method-dark.png"><img src="assets/sections/method-light.png" width="100%" alt="Design: frame the need, choose the architecture. Build: platforms, pipelines and products, as code. Run: observe, document, stay until it runs."></picture>
 
 <br>
 
-### Hackathons & community
+### Products I build
 
-<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/awards/awards-m-dark.png"><source media="(max-width: 600px)" srcset="assets/awards/awards-m-light.png"><source media="(prefers-color-scheme: dark)" srcset="assets/awards/awards-dark.png"><img src="assets/awards/awards-light.png" width="100%" alt="Hackathons and community. 1st prize, BioGroup Prize in Women's Health, InnovHer Health for Women Hackathon, Paris, November 2025: co-built OncoKine, a platform that helps women regain confidence in their intimate health after cancer, now in beta, still contributing. 2nd place, 24H du Code, Le Mans 2025, team Les Électrons Libres: an AI kiosk that records patients' vitals in the waiting room, running on an STM32 board with facial recognition. 2nd place, 24H du Code, Le Mans 2024, team Les Électrons Voyageurs: low-level security challenge on an STM32H7 board. Hackathon mentor: technical coach for teams at hackathons run in partnership with GE HealthCare. Volunteer team captain, VivaTech 2026; volunteer at EthCC[6]. International student ambassador, ESEO, since 2023: workshops on CVs, job hunting and LinkedIn, 150+ students coached."></picture>
+Software I design and ship after hours, from the mobile app to the cluster behind it. More on [stevenoumi.com/products](https://stevenoumi.com/products/).
+
+<a href="https://stevenoumi.com/products/"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/sections/products-m-dark.png"><source media="(max-width: 600px)" srcset="assets/sections/products-m-light.png"><source media="(prefers-color-scheme: dark)" srcset="assets/sections/products-dark.png"><img src="assets/sections/products-light.png" width="100%" alt="Mileseen, web SaaS, beta with 5 testers: job search for early-career talents, powered by agentic AI. Next.js, Astro, TypeScript, PostgreSQL, vLLM, Kubernetes. LivOpty, web and mobile, in daily use: a shared app for couples and families with lists, budget, messaging and a secure vault. React Native, Next.js, TypeScript, PostgreSQL, Cloudflare. Book-Whiz, web and mobile, paused: intercity bus booking in Cameroon. React Native, Next.js, Astro, PostgreSQL, Cloudflare. Dream World Burger, web e-commerce, delivered: online ordering for a restaurant with a live delivery map and sales charts. React, Node.js, MariaDB, Azure."></picture></a>
+
+<br>
+
+### Skills
+
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/sections/skills-m-dark.png"><source media="(max-width: 600px)" srcset="assets/sections/skills-m-light.png"><source media="(prefers-color-scheme: dark)" srcset="assets/sections/skills-dark.png"><img src="assets/sections/skills-light.png" width="100%" alt="Skills. Architecture and cloud: Azure, AWS, Google Cloud, OVHcloud, FinOps, ISO 27001. Platforms and delivery: Kubernetes, Helm, Terraform, Ansible, Docker, GitLab CI, Jenkins, Argo CD. MLOps and AI: Slurm, GPU Operator, vLLM, LangGraph, RAG, MCP. Observability and security: Prometheus, Grafana, ELK, Keycloak, Trivy, Ceph. Software: TypeScript, Python, Next.js, React Native, PostgreSQL, FastAPI."></picture>
+
+<br>
+
+### Certifications and languages
+
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/sections/credentials-m-dark.png"><source media="(max-width: 600px)" srcset="assets/sections/credentials-m-light.png"><source media="(prefers-color-scheme: dark)" srcset="assets/sections/credentials-dark.png"><img src="assets/sections/credentials-light.png" width="100%" alt="Certifications: Certified Kubernetes Administrator (CKA), in progress, October 2026; Introduction to Kubernetes (LFS158); Getting Started with OpenTofu, 2025; AWS Academy Cloud Foundations, graduate, 2025; Introduction to Linux (LFS101). Languages: French, native; English, fluent, TOEIC 935; German, professional working; Chinese, learning."></picture>
+
+<br>
+
+### Beyond code
+
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/sections/impact-m-dark.png"><source media="(max-width: 600px)" srcset="assets/sections/impact-m-light.png"><source media="(prefers-color-scheme: dark)" srcset="assets/sections/impact-dark.png"><img src="assets/sections/impact-light.png" width="100%" alt="1st: BioGroup prize, InnovHer hackathon, 2025. 2nd: 24h du Code, Le Mans, 2024 and 2025. 65 %: of the 150 students I coached found a position. Captain: volunteer team, VivaTech 2026."></picture>
 
 <br>
 
@@ -66,7 +71,8 @@ Most of my day-to-day work lives on GitLab, in company and product repositories.
 Open to conversations about AI, cloud, innovation and entrepreneurship.
 
 <p align="center">
-<a href="https://www.linkedin.com/in/stevenoumi"><picture><source media="(max-width: 600px)" srcset="assets/badges/linkedin-m.png"><img src="assets/badges/linkedin.png" height="28" alt="LinkedIn: stevenoumi"></picture></a>
-<a href="https://gitlab.com/stevenoumi"><picture><source media="(max-width: 600px)" srcset="assets/badges/gitlab-m.png"><img src="assets/badges/gitlab.png" height="28" alt="GitLab: stevenoumi"></picture></a>
-<a href="mailto:contact@stevenoumi.com"><picture><source media="(max-width: 600px)" srcset="assets/badges/email-m.png"><img src="assets/badges/email.png" height="28" alt="Email: contact@stevenoumi.com"></picture></a>
+<a href="https://stevenoumi.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/website-dark.png"><img src="assets/badges/website-light.png" height="32" alt="Website: stevenoumi.com"></picture></a>
+<a href="https://www.linkedin.com/in/stevenoumi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/linkedin-dark.png"><img src="assets/badges/linkedin-light.png" height="32" alt="LinkedIn: stevenoumi"></picture></a>
+<a href="https://gitlab.com/stevenoumi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/gitlab-dark.png"><img src="assets/badges/gitlab-light.png" height="32" alt="GitLab: stevenoumi"></picture></a>
+<a href="mailto:contact@stevenoumi.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/email-dark.png"><img src="assets/badges/email-light.png" height="32" alt="Email: contact@stevenoumi.com"></picture></a>
 </p>
